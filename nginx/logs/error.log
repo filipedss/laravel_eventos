@@ -1,0 +1,4 @@
+2023/03/03 14:36:33 [error] 36#36: *3 directory index of "/usr/share/nginx/html/" is forbidden, client: 172.26.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/03/03 14:41:05 [error] 37#37: *4 directory index of "/usr/share/nginx/html/" is forbidden, client: 172.26.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/03/03 14:43:42 [error] 38#38: *5 directory index of "/usr/share/nginx/html/" is forbidden, client: 172.26.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2023/03/03 14:45:51 [error] 38#38: *5 directory index of "/usr/share/nginx/html/" is forbidden, client: 172.26.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
